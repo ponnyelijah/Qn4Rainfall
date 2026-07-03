@@ -1,5 +1,5 @@
 
-package SsewankamboElijjah.rainfall;
+package SsewankamboElijah.rainfall;
 
 import java.util.Random;
 
